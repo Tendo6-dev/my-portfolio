@@ -217,6 +217,9 @@ nav a:hover{
         width: 100%;
 
     }
+    .menu-btn{
+        dispay:block;
+    }
 }
 
 .section-title{
